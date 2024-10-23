@@ -1,4 +1,4 @@
-Pendahuluan
+**Pendahuluan**
 
 Airbnb, pasar online global untuk penginapan, telah merevolusi cara orang bepergian dan menikmati destinasi baru. Didirikan pada tahun 2008, Airbnb menyediakan platform bagi pemilik rumah dan manajer properti untuk menyewakan tempat mereka kepada wisatawan, menawarkan beragam akomodasi mulai dari kamar tunggal hingga seluruh rumah. Layanan ini telah mendemokratisasi akomodasi perjalanan, memungkinkan para tamu menemukan pilihan penginapan yang unik, terjangkau, dan dipersonalisasi, sekaligus memberikan peluang bagi tuan rumah untuk mendapatkan penghasilan tambahan.
 
@@ -11,6 +11,7 @@ Berdasarkan Permasalahan dalam menentukan lokasi Airbnb, Kami memiliki tujuan un
 2. Bagaimana proporsi ketersediaan tipe kamar dan berapa rata-rata minimum durasi tinggal untuk setiap tipe kamar? Korelasi antara minimum durasi tinggal dan tipe kamar pada dua lokasi tersebut dapat menunjukkan hubungan tipe penginapan seperti apa yang lebih diminati oleh wisatawan jangka panjang dan jangka pendek. Selain itu, tren durasi tinggal pada tiap tipe kamar dapat menjadi insight untuk calon host baru untuk menentukan tipe kamar yang lebih diminati oleh wisatawan yang memilih untuk tinggal di pusat kota dan pinggiran kota
 
 **Tujuan dari analisis**
+
 Berdasarkan permasalahan tersebut, tujuan dari analisis ini adalah untuk memahami kecendrungan pada pemilik Airbnb dalam menentukan lokasi dan menetapkan harga yang diberikan berdasarkan lokasi Airbnb tersebut.
 
 Proses penentuan harga dan lokasi yang memungkinkan untuk calon host dapat didukung dengan analisis tambahan berupa hubungan tipe kamar dan rata-rata durasi tinggal sehingga calon host dapat menentukan strategi dalam menentukan kebijakan pada tiap tipe kamar yang ingin disewakan.
